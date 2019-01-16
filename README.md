@@ -13,4 +13,4 @@ gets.chomp.to_i
 See about defining it in a module and then call it
 - [ ] Can I make it so the output repeats the expression and displays the answer?
 - [ ] What if I want to work with more than two numbers?
--  [ ] Etc.
+  - [ ] Etc.
